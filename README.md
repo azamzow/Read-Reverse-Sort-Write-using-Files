@@ -9,7 +9,7 @@ This program utilizes the read, reverse, sort, and write fuctions in a file in j
 Using terminal on Mac:
 
 ```
-$ cd Read/Reverse/Sort/Write-using-Files
+$ cd Read-Reverse-Sort-Write-using-Files
 $ javac Read_file.java
 $ java Read_file
 ```
