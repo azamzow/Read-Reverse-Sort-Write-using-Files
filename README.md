@@ -6,9 +6,9 @@ This program utilizes the read(), reverse(), sort(), and write() fuctions in a f
 
 - Using 3 txt files, the user is asked to input 5 names. The program takes those names and reverses them into file1.txt. 
 
-- Next, the program reverses the names again (so there forward), and places them into file2.txt. 
+- Next, the program reverses the names again (so they're forward), and places them into file2.txt. 
 
-- Lastly, the program takes the names that were placed in file2.txt and sorts them out. After sorting them, it reverses the names for the last time, placing them into file3.txt.
+- Lastly, the program takes the names that were placed in file2.txt and reverses the names again (so they're backwards). After reversing them the last time, it sorts them out and places them into file3.txt.
 
 ### To Run
 
